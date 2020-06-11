@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +25,8 @@ h1 {
 #seo {
     color: #d9dcd6;
 }
+
+/* Navigation Bar */
 
 nav {
     padding-top: 15px;
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/* Main Background Image */
+
 .background-image {
     height: 800px;
     width: 100%;
@@ -59,6 +65,7 @@ p {
     background-position: center;
 }
 
+/* Main Content Block */
 
 section {
     width: 75%;
@@ -94,6 +101,8 @@ article img {
     margin-left: 25px;
 }
 
+/* Side Content Block */
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +129,8 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer */
 
 footer {
     padding: 30px;
