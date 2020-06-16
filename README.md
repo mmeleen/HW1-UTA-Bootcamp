@@ -1,5 +1,4 @@
-# HW1-UTA-Bootcamp
-HW1: Code Refactor
+# Code Refactor Project
 
 Task is to refactor an existing webpage to make it accessible.
 
